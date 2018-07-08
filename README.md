@@ -2,7 +2,7 @@
 
 Predicts the combat results, using the formula here: http://polytopia.wikia.com/wiki/Combat
 
-For example, to see the result of a warrior attacking an archer, you type `w a`, and it replies with `6.0  1.5` meaning the attacker causes 6 damage and the defender causes 2 (because 1.5 rounds up).
+For example, to see the result of a warrior attacking an archer, you type `w a`, and it replies with `6.0  1.5`, meaning the attacker causes 6 damage and the defender causes 2 (because 1.5 rounds up).
 
 ## Installing and running
 
