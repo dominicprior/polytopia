@@ -12,6 +12,8 @@ For example, to see the result of a warrior attacking an archer, you type `w a`,
 
 Then it simply waits for lines like `w a`.
 
+Or, if you don't to build the Haskell from source, you can run the `polytopia.exe`.
+
 ## Examples
 
 - `w8 r` - a warrior of health 8 attacking a fully healthy rider.
