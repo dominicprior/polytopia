@@ -23,7 +23,7 @@ Then it simply waits for lines like `w a`.
 The format is attacker, single space, defender.
 An attacker or defender is a single letter, an optional v, an optional f or ff, and an optional health count.
 
-Here is a demonstration that four catapults can defeat a giant.
+Here is a demonstration that four catapults can defeat a giant.  It shows the first catapult causes 9 damage, which brings the giant down to 31 health, which allows the second catapult to cause ten damage (because the giant is slightly weakened), and so on.
 ```
 c g
 9.0  9.0
